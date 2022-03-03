@@ -46,6 +46,8 @@ Este proyecto tiene un desarrollo de php dentro de la carpeta de models donde po
 
 Este para que la aplicación se pueda ver en un servidor local.
 
+:link: `link` <https://laravel.com/docs/8.x/readme>
+
 ## Dominio :round_pushpin:
 
 ![Heroku](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png)
@@ -102,6 +104,14 @@ Si hay alguna dificultad o necesitas alguna ayuda con el proyecto por favor cont
 - :telephone_receiver:  5540124899
 
 - :envelope:  fernando.brayan.m.g@gmail.com
+
+## Colaboradores
+
+Las personas que colaboraron a este proyecto son:
+
+- Zurito :link: `<link>` : <https://github.com/ZuritoSandoval>
+
+Recuerda agradecerles publicamente y seguirlos en GitHub.
 
 ## Recuerda dar las gracias :blue_heart:
 Este proyecto puedes ocuparlo siempre y cuando:
